@@ -26,8 +26,4 @@ Some More text
   Preformatted text
   is indented (however you like)
 
-* Further Text, including invocations like:
-
-.link https://godoc.org/golang.org/x/tools/present Present Doc
-
-Again, more text
+.link https://godoc.org/golang.org/x/tools/present Documentation
